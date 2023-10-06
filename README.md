@@ -51,7 +51,7 @@ resultado en tiempo real a medida que la usuaria escribe su texto:
     longitud media de las palabras en el texto ingresado.
 3. Es popsible borrar el área del texto y reiniciar los datos ingresados, a través del botón "Comienza de nuevo".
 ## 5. Diseño y prototipo
-El diseño del Analizador de texto fue pensado tomando en cuenta al usuario y su navegación por la aplicación, además de los requerimientos de aceptación y requisitos del proyecto.
-
-Se utilizó Figma para realizar el prototipo de baja fidelidad como guía inicial del proyecto.
+El diseño del Analizador de texto fue pensado tomando en cuenta al usuario y su navegación por la aplicación, además de los requerimientos de aceptación y requisitos del proyecto. Se utilizó Figma para realizar el prototipo de baja fidelidad como guía inicial del proyecto.
+![](/images/Prototipo.png)
 Bajo la lógica de JavaScript y la aplicación de estilos utilizando CSS. El resultado final es el siguiente: 
+![](/images/Navegador.png) 
